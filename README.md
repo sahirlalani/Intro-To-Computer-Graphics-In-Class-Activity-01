@@ -1,4 +1,7 @@
 # Intro-To-Computer-Graphics-In-Class-Activity-01
+
+From Left to Right:  
+MultiUV0,   MultiUV1, ViewDir_UV0, ViewDir_UV1, WorldPos, WorldReflection, RGB_1, RGB_0, RGB_5 
 <img width="1168" height="382" alt="Screenshot 2025-09-21 221653" src="https://github.com/user-attachments/assets/7e000351-a379-4d95-bf70-c7b4e1541c05" />
 
 
